@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name": "react",
+		"image": "img/react.png",
+		"picked": false
+	},
+	{
+		"id": 2,
+		"name": "javascript",
+		"image": "img/javascript.png",
+		"picked": false
+	},
+	{
+		"id": 3,
+		"name": "angular",
+		"image": "img/angular.png",
+		"picked": false
+	},
+	{
+		"id": 4,
+		"name": "next",
+		"image": "img/next.png",
+		"picked": false
+	},
+	{
+		"id": 5,
+		"name": "graphql",
+		"image": "img/graphql.png",
+		"picked": false
+	},
+	{
+		"id": 6,
+		"name": "backbone",
+		"image": "img/backbone.png",
+		"picked": false
+	},
+	{
+		"id": 7,
+		"name": "mysql",
+		"image": "img/mysql.png",
+		"picked": false
+	},
+	{
+		"id": 8,
+		"name": "netlifty",
+		"image": "img/netlifty.png",
+		"picked": false
+	},
+	{
+		"id": 9,
+		"name": "vue",
+		"image": "img/vue.png",
+		"picked": false
+	},
+	{
+		"id": 10,
+		"name": "mongodb",
+		"image": "img/mongodb.png",
+		"picked": false
+	},
+	{
+		"id": 11,
+		"name": "redux",
+		"image": "img/redux.png",
+		"picked": false
+	},
+	{
+		"id": 12,
+		"name": "node",
+		"image": "img/node.png",
+		"picked": false
+	}
+]

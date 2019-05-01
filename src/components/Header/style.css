@@ -1,0 +1,24 @@
+header {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+nav {
+	display: grid;
+	grid-template-columns: 3fr 3fr 2fr;
+	grid-gap: 10px;
+	border-radius: 5px;
+	box-shadow: -1px 6px 5px 0px rgba(0, 0, 0, 0.555);
+	background-color: #f3f3f3;
+}
+header h1 {
+	margin-left: 20px;
+	text-align: center;
+}
+.score {
+	display: grid;
+	grid-auto-columns: minmax(200px, 1fr);
+}
+.score > div {
+	padding: 1em;
+}
