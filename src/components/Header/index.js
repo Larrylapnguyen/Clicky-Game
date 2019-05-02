@@ -9,7 +9,7 @@ export default function Header(props) {
 					<h1>Memory Game</h1>
 				</div>
 				<div>
-					<h1>Click an Image to Start</h1>
+					<h1>{props.header}</h1>
 				</div>
 
 				<div className="score">
