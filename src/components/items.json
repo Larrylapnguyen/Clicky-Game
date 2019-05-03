@@ -2,73 +2,61 @@
 	{
 		"id": 1,
 		"name": "react",
-		"image": "img/react.png",
-		"picked": false
+		"image": "img/react.png"
 	},
 	{
 		"id": 2,
 		"name": "javascript",
-		"image": "img/javascript.png",
-		"picked": false
+		"image": "img/javascript.png"
 	},
 	{
 		"id": 3,
 		"name": "angular",
-		"image": "img/angular.png",
-		"picked": false
+		"image": "img/angular.png"
 	},
 	{
 		"id": 4,
 		"name": "next",
-		"image": "img/next.png",
-		"picked": false
+		"image": "img/next.png"
 	},
 	{
 		"id": 5,
 		"name": "graphql",
-		"image": "img/graphql.png",
-		"picked": false
+		"image": "img/graphql.png"
 	},
 	{
 		"id": 6,
 		"name": "backbone",
-		"image": "img/backbone.png",
-		"picked": false
+		"image": "img/backbone.png"
 	},
 	{
 		"id": 7,
 		"name": "mysql",
-		"image": "img/mysql.png",
-		"picked": false
+		"image": "img/mysql.png"
 	},
 	{
 		"id": 8,
 		"name": "netlifty",
-		"image": "img/netlifty.png",
-		"picked": false
+		"image": "img/netlifty.png"
 	},
 	{
 		"id": 9,
 		"name": "vue",
-		"image": "img/vue.png",
-		"picked": false
+		"image": "img/vue.png"
 	},
 	{
 		"id": 10,
 		"name": "mongodb",
-		"image": "img/mongodb.png",
-		"picked": false
+		"image": "img/mongodb.png"
 	},
 	{
 		"id": 11,
 		"name": "redux",
-		"image": "img/redux.png",
-		"picked": false
+		"image": "img/redux.png"
 	},
 	{
 		"id": 12,
 		"name": "node",
-		"image": "img/node.png",
-		"picked": false
+		"image": "img/node.png"
 	}
 ]
